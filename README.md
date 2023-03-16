@@ -19,7 +19,7 @@ PAN.dev was created to deliver a better developer experience to our developer co
 
 **Who can contribute?**
 
-Anyone! We made pan.dev open source so all members of the community can author, edit, and open issues on our docs.
+Anyone! We made pan.dev open source so all members of the community can author, edit, and open issues on our docs. Test
 
 **How can I contribute?**
 
